@@ -25,6 +25,5 @@ function doWhileLoop(array) {
   }
   do {
     array=array.slice(1)
-    
   }
 }
