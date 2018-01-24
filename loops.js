@@ -20,5 +20,7 @@ function whileLoop(n) {
 }
 
 function dowhileloop(n){
-  
+  do {
+  [loopBody];
+} while ([condition]);
 }
