@@ -25,6 +25,6 @@ function doWhileLoop(array) {
   }
   do {
     array=array.slice(1)
-    while(array.length)
+    while(array.length > 0 )
   }
 }
